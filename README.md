@@ -17,7 +17,7 @@ The application demonstrates the following:
 7. Calls the `Calculate()` method again using named parameters.
 8. Includes comments throughout the code to explain what each line or block does.
 
-# Please Find Method class inside of Program.cs/ Main Class ! 
+# Please Find Method class inside of myConsoleProject and under program.cs 
 
 ## Technologies Used
 
