@@ -17,9 +17,6 @@ class MathOperations
         // Display the result of the math operation on the first integer.
         Console.WriteLine("The result of the math operation is: " + result);
 
-        // Display the first integer that was passed to the method.
-        Console.WriteLine("The first number is: " + number1);
-
         // Display the second integer that was passed to the method.
         Console.WriteLine("The second number is: " + number2);
     }
@@ -46,4 +43,4 @@ class Program
         Console.ReadLine();
     }
 }
-
+```
